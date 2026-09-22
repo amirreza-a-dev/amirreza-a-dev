@@ -1,6 +1,6 @@
 # AMIRREZA-A-DEV
 
-<img src="./Vincent_Willem_van_Gogh_127.jpg" alt="Sunflowers">
+<img src="./Vincent_Willem_van_Gogh_127.jpg" alt="Sunflowers" width="300" height="360">
 
 ```bash
  _____________
