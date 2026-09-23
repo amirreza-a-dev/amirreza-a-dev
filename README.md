@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/PYTHON-0000bf?logo=python&logoColor=ffff00) ![C++](https://img.shields.io/badge/C++-0000ff?logo=cplusplus&logoColor=ffffff) ![Git](https://img.shields.io/badge/GIT-ff3000?logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GITHUB-101010?logo=github&logoColor=ffffff)
+![Python](https://img.shields.io/badge/PYTHON-0000bf?style=for-the-badge&logo=python&logoColor=ffff00) ![C++](https://img.shields.io/badge/C++-0000ff?style=for-the-badge&logo=cplusplus&logoColor=ffffff) ![Git](https://img.shields.io/badge/GIT-ff3000?style=for-the-badge&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=ffffff)
 
 ```bash
   ___
