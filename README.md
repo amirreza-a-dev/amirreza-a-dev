@@ -18,7 +18,10 @@
 
 ## Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/PYTHON-001bff?style=for-the-badge&logo=python&logoColor=ffff00" alt="Python"> <img src="https://img.shields.io/badge/C++-0000ff?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="C++"> <img src="https://img.shields.io/badge/GIT-ff3000?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"> <img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+<img src="https://img.shields.io/badge/PYTHON-001bff?style=for-the-badge&logo=python&logoColor=ffff00" alt="Python">
+<img src="https://img.shields.io/badge/C++-0000ff?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="C++">
+<img src="https://img.shields.io/badge/GIT-ff3000?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
+<img src="https://img.shields.io/badge/GITHUB-202020?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
 <p>
 
 <br>
